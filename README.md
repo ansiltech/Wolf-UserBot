@@ -11,8 +11,8 @@ This Is Telegram User Control Bot
 
 
 ## Support
-   <a href="https://www/t.me/ansiltechteam"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://www/t.me/ansiltechsupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="t.me/ansiltechteam"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="t.me/ansiltechsupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
    
 ## Disclaimer
