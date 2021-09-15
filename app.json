@@ -20,13 +20,9 @@
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "OWNER_USERNAME": {
-      "description": "Your username",
-      "value": "TG_BOTMAKER"
-    },
-    "WEBHOOK": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
-      "value": "ANYTHING"
+    "ALIVE_NAME": {
+      "description": "give your name",
+      "value": ""
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name",
@@ -36,21 +32,9 @@
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
       "value": "-1001462932405"
     },
-    "SUPPORT_USERS": {
-      "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1759920879"
-    },
-    "WHITELIST_USERS": {
-      "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1759920879"
-    },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
       "value": ""
-    },
-    "STRICT_GBAN": {
-      "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
-      "value": "True"
     },
     "ALLOW_EXCL": {
       "description": "Whether to allow using exclamation marks ! for commands as well as /.",
