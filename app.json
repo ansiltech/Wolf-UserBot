@@ -20,10 +20,6 @@
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
-      "value": "1171720167"
-    },
     "OWNER_USERNAME": {
       "description": "Your username",
       "value": "TG_BOTMAKER"
@@ -40,10 +36,6 @@
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
       "value": "-1001462932405"
     },
-    "SUDO_USERS": {
-      "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 570400686 466337795"
-    },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
       "value": "1759920879"
@@ -56,14 +48,6 @@
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
       "value": ""
     },
-    "PORT": {
-      "description": "Port to use for your webhooks",
-      "value": "8443"
-    },
-    "DEL_CMDS": {
-      "description": "Whether to delete commands from users which don't have rights to use that command",
-      "value": "True"
-    },
     "STRICT_GBAN": {
       "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
       "value": "True"
@@ -71,10 +55,6 @@
     "ALLOW_EXCL": {
       "description": "Whether to allow using exclamation marks ! for commands as well as /.",
       "value": "True"
-    },
-    "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADNwEAAjZzSxRZAc49mnFSSAI"
     }
   },
   "addons": [
