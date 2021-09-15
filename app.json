@@ -1,16 +1,16 @@
 
 {
-  "name": "Ansiltech",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/d304ebee70558e256766b.jpg",
+  "name": "WolfUserBot",
+  "description": "Telegram's sassiest user controller. Modular Telegram user controller bot!",
+  "logo": "https://telegra.ph/file/62ebe06cfa510c1904fe1.jpg",
   "keywords": [
     "telegram",
     "best",
-    "group",
-    "manager",
+    "user",
+    "controller",
     "3"
   ],
-  "repository": "https://github.com/ansiltech/Grilia.git",
+  "repository": "https://github.com/ansiltech/Wolf-UserBot.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
