@@ -8,7 +8,7 @@ from .core.session import wolfub
 from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
 __version__ = "3.0.4"
-__license__ = "GNU Affero General Public License v3.0"
+__license__ = "MIT License"
 __author__ = "WolfUserBot <https://github.com/ansiltech/Wolf-UserBot>"
 __copyright__ = "WolfUserBot Copyright (C) 2020 - 2021  " + __author__
 
