@@ -52,10 +52,6 @@
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Kolkata"
-    },
-    "UPSTREAM_REPO": {
-      "description": "Use either goodwolf or badwolf .if you need custom deploy then type your git repo link",
-      "value": "badwolf"
     }
   },
   "addons": [
