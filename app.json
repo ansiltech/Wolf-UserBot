@@ -1,0 +1,69 @@
+
+{
+  "name": "Wolf_UserBot",
+  "description": "Telegram's sassiest User controller. Modular Telegram User controller bot!",
+  "keywords": [
+    "telegram",
+    "best",
+    "user",
+    "controller",
+    "3"
+  ],
+  "repository": "https://github.com/ansiltech/Wolf-UserBot",
+  "env": {
+    "ALIVE_NAME": {
+      "description": "give your name",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": ""
+    },
+    "COMMAND_HAND_LER": {
+      "description": "Set this one with only one the symbol to use it before your command to run like . , / !",
+      "value": "!"
+    },
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable heroku.",
+      "value": "ANYTHING"
+    },
+    "HEROKU_API_KEY": {
+      "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account
+",
+      "value": ""
+    },
+    "HEROKU_APP_NAME": {
+      "description": "YOUR app name",
+      "value": ""
+    },
+    "STRING_SESSION": {
+      "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
+      "value": ""
+    },
+    "TG_BOT_TOKEN": {
+      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.
+",
+      "value": ""
+    },
+    "TZ": {
+      "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "value": "Asia/Kolkata"
+    },
+    "UPSTREAM_REPO": {
+      "description": "Use either goodwolf or badwolf .if you need custom deploy then type your git repo link",
+      "value": "badwolf"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
