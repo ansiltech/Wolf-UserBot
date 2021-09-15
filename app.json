@@ -28,10 +28,6 @@
       "description": "YOUR app name",
       "value": ""
     },
-    "MESSAGE_DUMP": {
-      "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1001462932405"
-    },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
       "value": ""
@@ -39,6 +35,10 @@
     "ALLOW_EXCL": {
       "description": "Whether to allow using exclamation marks ! for commands as well as /.",
       "value": "True"
+    },
+    "PM_LOGGER_GROUP_ID": {
+       "description": " for logging PM. ",
+       "value": ""
     }
   },
   "addons": [
