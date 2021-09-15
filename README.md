@@ -32,5 +32,5 @@ No personal support will be provided / We won't spoon feed you.
 If you need help ask in our support group 
 and we or our friends will try to help you.
 
-Thanks for using our bot 😺
+Thanks for using our bot 🐺
 ```
