@@ -34,4 +34,4 @@ and we or our friends will try to help you.
 
 Thanks for using our bot 🐺
 ```
-##Vars
+
