@@ -35,10 +35,6 @@
     "ALLOW_EXCL": {
       "description": "Whether to allow using exclamation marks ! for commands as well as /.",
       "value": "True"
-    },
-    "PM_LOGGER_GROUP_ID": {
-       "description": " for logging PM. ",
-       "value": ""
     }
   },
   "addons": [
