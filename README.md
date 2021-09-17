@@ -36,4 +36,4 @@ Thanks for using our bot 🐺
 ```
 
 # Credits
-@nsilvpo
+[@nsilvpo](t.me/nsilvpo)
