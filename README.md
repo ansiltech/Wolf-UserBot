@@ -4,7 +4,7 @@ This Is Telegram User Control Bot
 
 
 
-## How to deploy catuserbot
+## How to deploy wolfuserbot
 ## Heroku Deploy
   - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ansiltech/Wolf-UserBot.git)
 
